@@ -1,0 +1,9 @@
+{
+  "targetRoots": ["Assets/_ProjectAssets"],
+  "validateAssetLocations": true,
+  "validateAssetNaming": true,
+  "validateMonoBehaviourStructure": true,
+  "failOnWarnings": false,
+  "monoBehaviourNamespacePrefix": "Palapal",
+  "reportPath": "Artifacts/QualityReport.json"
+}

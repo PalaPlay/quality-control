@@ -1,0 +1,6 @@
+{
+  "name": "Palapal.QualityControl.Editor",
+  "rootNamespace": "Palapal.QualityControl.Editor",
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}

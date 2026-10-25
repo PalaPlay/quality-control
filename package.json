@@ -1,0 +1,16 @@
+{
+  "name": "com.palapal.qualitycontrol",
+  "version": "1.0.0",
+  "displayName": "Palapal Quality Control",
+  "description": "Project asset and MonoBehaviour conventions, shared by Unity Editor tools and CI validation.",
+  "unity": "2021.3",
+  "author": { "name": "Palapal" },
+  "keywords": ["validation", "quality", "ci", "conventions"],
+  "samples": [
+    {
+      "displayName": "MonoBehaviour Template",
+      "description": "An example component following the validated structure.",
+      "path": "Samples~/MonoBehaviour"
+    }
+  ]
+}

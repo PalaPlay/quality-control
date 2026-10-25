@@ -1,0 +1,7 @@
+{
+  "name": "Palapal.QualityControl.Editor.Tests",
+  "references": ["Palapal.QualityControl.Editor"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false
+}
