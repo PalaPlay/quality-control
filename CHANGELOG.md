@@ -8,3 +8,6 @@
 - Restored numeric naming segments, render textures and UI settings/theme formats; corrected direct-file checks.
 - MonoBehaviour documentation, namespace, regions, member placement and group-order validation.
 - Parameterized CI launcher, structured reports and regression tests.
+----------------------
+base commit tag
+release: QualityControl/v1.0.0
