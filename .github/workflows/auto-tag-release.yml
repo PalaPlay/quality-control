@@ -5,7 +5,7 @@ name: Auto Tag and Release from Commit
 on:
   push:
     branches:
-      - Dev # یا نام شاخه اصلی شما مانند master
+      - main # یا نام شاخه اصلی شما مانند master
 
 jobs:
   tag_and_release:
